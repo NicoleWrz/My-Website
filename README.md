@@ -8,4 +8,4 @@ The work section is empty now, but check back in a few weeks for an update!
 
 
 
-![](Screenshot-Portfolio_adobespark.png)
+![](https://github.com/NicoleWrz/Portfolio/blob/633e7d6e1a26dbf6ddd8940d0d6bed29256d10a4/Assets/images/screenshot-nicolewrz.github.io-2021.12.15-15_23_32.png)
