@@ -120,45 +120,45 @@ main {
 }
 
 #works {
-    margin-bottom: 20px;
-    color: white;
-  }
+   margin-bottom: 20px;
+   color: white;
+}
   
-  figure {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    padding: 0 0 10px 0;
-  }
+figure {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 0 0 10px 0;
+}
   
-  figure a {
-    text-decoration: none;
-  }
+figure a {
+  text-decoration: none;
+}
   
-  #works img {
-    transition: all 0.2s ease-in-out;
-    border: 5px solid var(--darkerblue);
-    max-height: 300px;
-    max-width: 100%;
-  }
+#works img {
+  transition: all 0.2s ease-in-out;
+  border: 5px solid var(--darkerblue);
+  max-height: 300px;
+  max-width: 100%;
+}
   
-  #works img:hover {
-    transform: scale(1.15);
-  }
+#works img:hover {
+  transform: scale(1.15);
+}
   
-  figcaption {
-    visibility: hidden;
-    font-size: 25px;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    color: white;
-    text-align: center;
-    padding: 25px 0 0 0;
-  }
+figcaption {
+  visibility: hidden;
+  font-size: 25px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  color: white;
+  text-align: center;
+  padding: 25px 0 0 0;
+}
   
-  #works a:hover figcaption {
-    visibility: visible;
-  }
+#works a:hover figcaption {
+  visibility: visible;
+}
   
 .contactContent {
   text-align: center;
