@@ -147,7 +147,7 @@ figure a {
 }
   
 figcaption {
-  visibility: hidden;
+  /* visibility: hidden; */
   font-size: 25px;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -195,4 +195,8 @@ figcaption {
 
 footer {
   text-align: center;
+}
+
+.resume-img {
+  align-items: center;
 }
